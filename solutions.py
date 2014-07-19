@@ -4,4 +4,7 @@
 # What if you can not use additional data structures?
 
 def isUnique(s):
-    return all([s.count(x)==1 for x in s])
+    if all([s.count(x)==1 for x in s]):
+        return "Yes"
+    else:
+        return 'No;
