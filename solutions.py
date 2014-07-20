@@ -7,4 +7,4 @@ def isUnique(s):
     if all([s.count(x)==1 for x in s]):
         return "Yes"
     else:
-        return 'No;
+        return 'No'
