@@ -9,6 +9,7 @@ def isUnique(s):
         return 'Yes'
     else:
         return 'No'
+<<<<<<< HEAD
 
 # Cracking the coding interview (150) Q1.2
 # Write code to reverse a C-Style String. (C-String means that 'abcd' is
@@ -26,3 +27,5 @@ def strReverse(s):
 # Write the test cases for this method.
 
 def 
+=======
+>>>>>>> origin/master
